@@ -3,7 +3,7 @@
 > **Herramienta de línea de comandos para gestionar metas de ahorro personal con seguimiento de abonos y progreso en tiempo real.**
 
 Parte del ecosistema de finanzas personales:
-[Savings Goal Tracker CLI](.) · [Expense Analyzer](https://github.com/sssexpistols/expense-analyzer) · [Expense Tracker API](../proyecto3_flask_api)
+[Savings Goal Tracker CLI](.) · [Expense Analyzer](https://github.com/sssexpistols/expense-analyzer) · [Expense Tracker API](https://github.com/sssexpistols/expense-tracker-api)
 
 ---
 
