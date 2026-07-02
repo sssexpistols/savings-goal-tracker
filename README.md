@@ -120,9 +120,4 @@ savings-goal-tracker/
 
 ---
 
-## Autor
-
-**Gabriel Valderrama** — Estudiante de Ingeniería en Informática · UPIICSA – IPN
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-angel--gabriel--valderrama-blue?logo=linkedin)](https://linkedin.com/in/angel-gabriel-valderrama)
-[![GitHub](https://img.shields.io/badge/GitHub-sssexpistols-black?logo=github)](https://github.com/sssexpistols)
